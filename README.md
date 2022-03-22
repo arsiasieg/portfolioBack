@@ -43,9 +43,9 @@ Pour mettre en place une copie locale et la faire fonctionner, suivez les étape
 
 ### Avant d'utiliser ce repo
 Sachez que ce projet a été construit pour un front qui lui est dédié. De plus, vous aurez besoin d'une base de donné
-pour faire fonctionner le back et le front correctement.
+pour faire fonctionner le back et afficher correctement le front.
 
-Ce repo contient une BDD de base que vous pouvez utiliser. Il faut suffit simplement de récupérer le script et de l'ouvrir
+Le repo du front (en lien plus haut) contient une BDD de base que vous pouvez utiliser. Il faut suffit simplement de récupérer le script et de l'ouvrir
 dans MySQL workbench et de l'exécuter. Vous aurez alors des données à votre disposition.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
